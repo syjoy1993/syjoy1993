@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/f0663cba-8009-447c-8d59-b1c7f9bb1de0)<p align="center">
+  <img src="./assets/똑똑이_담곰이.jpg" alt="똑똑이 담곰이" width="300px" />
+</p>
+
 ## ✨ 나의 방향
 
 저는 기술적 성장을 넘어, 한 사람으로서 성장하는 삶을 지향합니다.
@@ -53,4 +57,7 @@
 
 -  익숙한 것에서는 더 깊이 있게, 낯선 것에서는 겁내지 않고 도전하려고 합니다.
 -  또한, 아직 완벽하지 않아도, **꾸준함과 끈기**로 저의 것으로 만들고 싶습니다.
-
+-  
+<p align="center">
+  <img src="./assets/딸기_담곰이.jpg" alt="딸기 담곰이" width="200px" />
+</p>
