@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/똑똑이_담곰이.jpg" alt="똑똑이 담곰이" width="300px" />
+  <img src="./assets/brilliant_dev.jpg" alt="멋진 개발자 담곰이" width="300px" />
 </p>
 
 ## ✨ 나의 방향
@@ -59,5 +59,7 @@
 -  또한, 아직 완벽하지 않아도, **꾸준함과 끈기**로 저의 것으로 만들고 싶습니다.
 -  
 <p align="center">
-  <img src="./assets/딸기_담곰이.jpg" alt="딸기 담곰이" width="200px" />
+  <img src="./assets/mydamgom.jpg" alt="딸기 담곰이" width="200px" />
+  <br/>
+  <b>오늘도 천천히, 꾸준히 ☁️🍓</b>
 </p>
