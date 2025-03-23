@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/brilliant_dev.jpg" alt="멋진 개발자 담곰이" width="300px" />
-</p>
+<img src="./assets/brilliant_dev.jpg" alt="멋진 개발자 담곰이" width="180px" align="left" style="margin-right: 20px;" />
 
 ## ✨ 나의 방향
 
