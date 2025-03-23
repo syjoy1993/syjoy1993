@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0663cba-8009-447c-8d59-b1c7f9bb1de0)<p align="center">
+<p align="center">
   <img src="./assets/똑똑이_담곰이.jpg" alt="똑똑이 담곰이" width="300px" />
 </p>
 
