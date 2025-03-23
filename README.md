@@ -41,8 +41,9 @@
 
 ## 🛠 기술 및 관심 분야
 <p align="left">
-  <img src="./assets/brilliant_dev.jpg" alt="멋진 개발자 담곰이" width="160px" style="margin-right: 20px;" />
+  <img src="./assets/brilliant_dev.jpg" alt="멋진 개발자 담곰이" width="120px" style="margin-right: 20px;" />
 </p>
+
 - **가장 잘하고 싶고, 가장 애정하는 언어**: `Java ☕️`
 - **매일 꾸준히 단련하고 있는 기술**: `Spring Framework`, `QueryDsl`, `Kubernetes`, `SQL`, `AWS`, `Github`, `CICD`
 - **새롭게 배우고자 하는 기술/언어**: `Kotlin`, `Terraform`, `Helm`
