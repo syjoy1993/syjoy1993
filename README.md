@@ -45,19 +45,16 @@
 </p>
 
 - **가장 잘하고 싶고, 가장 애정하는 언어**: `Java ☕️`
-- **매일 꾸준히 단련하고 있는 기술**: `Spring Framework`, `QueryDsl`, `Kubernetes`, `SQL`, `AWS`, `Github`, `CICD`
-- **새롭게 배우고자 하는 기술/언어**: `Kotlin`, `Terraform`, `Helm`
-
-## 🔧 기술 요약
-
 - 💻 **사용해본 기술 스택**: Java, Spring Boot, JPA, OAuth2, Docker, EC2, MySQL, GitHub Actions, Kubernetes, Prometheus, Grafana,
 - 📚 **현재 학습 중인 기술**: Querydsl, CI/CD 파이프라인 구성
-- 💪 **가장 꾸준히 단련 중인 분야**: Java, Spring Security, Spring Boot, JPA
-- → 구조 설계, 요청 흐름, 보안 설정(Spring Security)등 복잡한 내용을 고민하고 정리하며 머리 쓰는 그 과정 자체가 저에게는 큰 행복입니다.
-- 🙃 **솔직히 아직 어려운 분야**: Terraform, CI/CD 파이프라인 구성
+- 💪 **가장 꾸준히 단련 중인 분야**: Java, Spring Security, Spring Boot, JPA, `QueryDsl`, `SQL`, `AWS`, `Github`, `CICD`
+- - **새롭게 배우고자 하는 기술/언어**: `Kotlin`, `Terraform`, `Helm`
+
+
+- #### 위 2개는 중복 제거 
 
 -  익숙한 것에서는 더 깊이 있게, 낯선 것에서는 겁내지 않고 도전하려고 합니다.
--  또한, 아직 완벽하지 않아도, **꾸준함과 끈기**로 저의 것으로 만들고 싶습니다.
+-  **꾸준함과 끈기**로 저의 것으로 만들고 싶습니다.
 
 <p align="right">
   <img src="./assets/mydamgom.jpg" alt="딸기 담곰이" width="140px" />
