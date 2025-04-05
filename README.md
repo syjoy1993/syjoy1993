@@ -48,7 +48,7 @@
 - 💻 **사용해본 기술 스택**: Java, Spring Boot, JPA, OAuth2, Docker, EC2, MySQL, GitHub Actions, Kubernetes, Prometheus, Grafana,
 - 📚 **현재 학습 중인 기술**: Querydsl, CI/CD 파이프라인 구성
 - 💪 **가장 꾸준히 단련 중인 분야**: Java, Spring Security, Spring Boot, JPA, `QueryDsl`, `SQL`, `AWS`, `Github`, `CICD`
-- - **새롭게 배우고자 하는 기술/언어**: `Kotlin`, `Terraform`, `Helm`
+- **새롭게 배우고자 하는 기술/언어**: `Kotlin`, `Terraform`, `Helm`
 
 
 -  익숙한 것에서는 더 깊이 있게, 낯선 것에서는 겁내지 않고 도전하려고 합니다.
